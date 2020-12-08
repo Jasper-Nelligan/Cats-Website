@@ -1,2 +1,2 @@
 # Cats-Website
-A website about my families cats that I made for my mom. I did this to learn html and javascript. UI was not the focus here haha.
+This is my first website ever made. I made it for my mom since she loves all of our cats so much. I did this to learn html and javascript. UI was obviously not the focus here haha.
