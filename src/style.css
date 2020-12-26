@@ -1,0 +1,42 @@
+body {
+    background-image: url(../images/bg_blurred.jpg);
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+.center-fit {
+    max-width: 90vw;
+    max-height: 90vh;
+    margin: auto;
+}
+#back-btn {
+  position: absolute;
+  top: 20px;
+  left: 60px;
+  font-size: 4vw;
+}
+/* Centers horizontally and shifts down header a couple lines */
+#caption {
+    text-align: center;
+    line-height: 2.5;
+    color: black;
+    font-size: 19px;
+}
+
+a:link{
+    color: blue;
+}
+
+a:hover{
+    color:#eb34db;
+}
+
+a:active{
+    color:#eb34db;
+}
